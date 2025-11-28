@@ -56,7 +56,7 @@ export default function CreateUserPage() {
           spacing={4}
           xs={10}
         >
-          <Grid item xs={11}>
+          <Grid item xs={2}>
             <Avatar seed={`${playerName}${imgSeed}`} />
           </Grid>
           <Grid item xs={1}>
