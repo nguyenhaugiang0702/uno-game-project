@@ -1,0 +1,6 @@
+{
+  "/page": "app/page.js",
+  "/waiting-lobby/page": "app/waiting-lobby/page.js",
+  "/game/page": "app/game/page.js",
+  "/main-menu/page": "app/main-menu/page.js"
+}
